@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "QCEWAS"]
+	path = QCEWAS
+	url = https://github.com/cran/QCEWAS
+	shallow = true
+	registered = true
+[submodule "QCGWAS"]
+	path = QCGWAS
+	url = https://github.com/cran/QCGWAS
+	shallow = true
+	registered = true
